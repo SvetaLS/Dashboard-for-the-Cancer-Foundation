@@ -13,14 +13,15 @@
 - 'Сфера деятельности', 
 - 'Диагноз', 
 - 'Этап', 
-- 'Помощь'
+- 'Помощь
+
 Устранить другие неточности в данных, провести анализ и дать рекомендации по сбору данных на будущее.
 
 #### Инструменты
-Google Sheets
+- Google Sheets
 
-re
+- re
 
-DataLens
+- DataLens
 
-Создан справочник для стандартизации данных: https://docs.google.com/spreadsheets/d/1ODxYYhWq1OMntpGo9gD8jYKJQV6lGfw0fAtkyhCr1Q0/edit#gid=822464959
+- Создан справочник для стандартизации данных: https://docs.google.com/spreadsheets/d/1ODxYYhWq1OMntpGo9gD8jYKJQV6lGfw0fAtkyhCr1Q0/edit#gid=822464959
