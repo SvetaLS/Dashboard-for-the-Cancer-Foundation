@@ -25,3 +25,12 @@
 - DataLens
 
 - Создан справочник для стандартизации данных: https://docs.google.com/spreadsheets/d/1ODxYYhWq1OMntpGo9gD8jYKJQV6lGfw0fAtkyhCr1Q0/edit#gid=822464959
+
+#### Итог
+Построен дашборд согласно ТЗ. Даны рекомендации по сбору данных. Учтены пожелания заказчика.
+
+[Дашборд](https://datalens.yandex.ru/qtacnqjprauce-dashbord-dlya-ano-rak-pobedim)
+
+[Предобработанный файл с подопечными](https://docs.google.com/spreadsheets/d/1MooM3-meLniOYmtSbDsUQWqQNGFtQZ4hLNah9zfuSOQ/edit?usp=sharing)
+
+[Файл доноры](https://docs.google.com/spreadsheets/d/1KHfif67eFT8jrPvEqH_1hTlgXNY2iGPqoDfVkmfDV-c/edit?usp=sharing)
